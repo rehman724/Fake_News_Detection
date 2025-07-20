@@ -40,3 +40,5 @@ pip install pandas nltk scikit-learn matplotlib seaborn wordcloud
 
 git clone https://github.com/rehman724/Fake_News_Detection.git
 cd Fake_News_Detection
+
+Author: Abdurehman
